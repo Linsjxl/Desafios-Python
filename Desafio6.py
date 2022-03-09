@@ -10,6 +10,7 @@ número de litros vendidos, o tipo de combustível (codificado da seguinte forma
 A-álcool, G-gasolina), calcule e imprima o valor a ser pago pelo cliente sabendo-se
 que o preço do litro da gasolina é R$ 2,50 o preço do litro do álcool é R$ 1,90.
 """
+
 litros = int(input("Informe a quantidade de litros que você deseja colocar: "))
 tipo = input(" Qual irá colocar? G- gasolina ou A- álcool? ")
 tipo = tipo.upper()
