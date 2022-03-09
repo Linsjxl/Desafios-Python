@@ -8,6 +8,7 @@ peixes) e calcule o excesso. Gravar na variável excesso a quantidade de quilos
 além do limite e na variável multa o valor da multa que João deverá pagar.
 Imprima os dados do programa com as mensagens adequadas.
 """
+
 kg = int(input ("Quantos kgs e peixe foram trazidos para a vena hoje? "))
 
 kgSobrando= 0
