@@ -14,6 +14,7 @@ calcule os descontos e o salário líquido, conforme a tabela abaixo:
 - Sindicato ( 5%) : R$
 = Salário Liquido : R$
 """
+
 ganhosHora = input("Quanto você ganha por hora trabalhada? ")
 horasPmes = input("Quantas horas você trabalha por mês? ")
 a =int(ganhosHora)
